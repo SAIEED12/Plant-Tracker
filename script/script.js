@@ -101,7 +101,7 @@ mainContainer.addEventListener("click", function (event) {
     const status = prtNode.querySelector(".status").innerText;
     const notes = prtNode.querySelector(".notes").innerText;
 
-    prtNode.querySelector('.status').innerText='Struggling';
+    prtNode.querySelector('.status').innerText='Struggle';
 
     const cardInfo = {
       plantName,
